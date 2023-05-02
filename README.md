@@ -1,4 +1,7 @@
-<p align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=0AF736&width=435&lines=Hello+Word!+I'm+AYOUB+AKANOUN)](https://git.io/typing-svg)</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=0AF736&width=435&lines=Hello+Word!+I'm+AYOUB+AKANOUN">
+</img></p>
 
 
 ## <img src="https://media.giphy.com/media/k76eCxLAYwyjyFXClf/giphy.gif" width="50"> About me...
