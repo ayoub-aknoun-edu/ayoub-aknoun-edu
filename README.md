@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=0AF736&width=430&lines=Hello+World!+I'm+AYOUB+AKANOUN">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=0AF736&width=439&lines=Hello+World!+I'm+AYOUB+AKANOUN">
 </img></p>
 
 
