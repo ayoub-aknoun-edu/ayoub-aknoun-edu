@@ -1,7 +1,8 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=0AF736&width=439&lines=Hello!+I'm+AYOUB+AKANOUN" alt="Hello! I'm Ayoub Akanoun" />
   <br/>
-  <img src="YOUR_NEW_GIF_URL.gif" width="60" alt="waving developer" />
+<img src="https://media.giphy.com/media/Nzb88SrTQ5uPlcoKcz/giphy.gif" width="60" alt="developer popping up from behind laptop and waving" />
+
 </p>
 
 ## About me...
