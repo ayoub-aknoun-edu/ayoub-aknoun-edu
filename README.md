@@ -2,6 +2,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=0AF736&width=439&lines=Hello!+I'm+AYOUB+AKANOUN" alt="Hello! I'm Ayoub Akanoun" />
   <br/>
 <img src="https://media.giphy.com/media/k76eCxLAYwyjyFXClf/giphy.gif" width="100">
+<img src="[https://media.giphy.com/media/k76eCxLAYwyjyFXClf/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGl1dGg2ajBlN2k2cnQxY3NpeDBuZDlkdHh4dG9oOTN6ZmVlc3VvcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/heIX5HfWgEYlW/giphy.gif)" width="100">
+
 
 </p>
 
