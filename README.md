@@ -1,8 +1,10 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=0AF736&width=460&lines=Hello!+I'm+Ayoub+Akanoun" alt="Typing banner saying: Hello! I'm Ayoub Akanoun" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=0AF736&width=439&lines=Hello!+I'm+AYOUB+AKANOUN" alt="Hello! I'm Ayoub Akanoun" />
+  <br/>
+  <img src="YOUR_NEW_GIF_URL.gif" width="60" alt="waving developer" />
 </p>
 
-# 💫 About Me
+## About me...
 
 AI & Full-stack engineer with a Master’s in **Artificial Intelligence & Data Analytics**. I build end-to-end systems at the intersection of **ML/DL/GenAI** and **Angular + Java (Spring Boot)** — from data to deployment.
 
