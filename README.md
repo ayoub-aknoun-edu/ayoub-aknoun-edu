@@ -24,17 +24,31 @@ AI & Full-stack engineer with a Master’s in **Artificial Intelligence & Data A
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=ayoub-aknoun-edu&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ayoub-aknoun-edu&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayoub-aknoun-edu&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=ayoub-aknoun-edu&theme=tokyonight&hide_border=false" />
+</p>
 
+<p align="center"> 
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ayoub-aknoun-edu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />  
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ayoub-aknoun-edu&layout=compact&langs_count=8&theme=tokyonight" />
+</p>
+  
 ## 🏆 GitHub Trophies
+<p align="center"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayoub-aknoun-edu" alt="ayoub-aknoun-edu" /></a>
+</p>
 
-![](https://github-profile-trophy.vercel.app/?username=ayoub-aknoun-edu&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=ayoub-aknoun-edu&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+## 🔝 Top Contributed Repo
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=ayoub-aknoun-edu&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ayoub-aknoun-edu&icon=2&color=0)](https://visitcount.itsvg.in)
+
+<p align="left"> </p>
+
+
+
+<p align="center">
+   <img src="https://komarev.com/ghpvc/?username=ayoub-aknoun-edu&label=Profile%20views&color=0e75b6&style=flat" alt="ayoub-aknoun-edu" />
+</p>
