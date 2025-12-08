@@ -35,7 +35,7 @@ AI & Full-stack engineer with a Master’s in **Artificial Intelligence & Data A
   
 ## 🏆 GitHub Trophies
 <p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayoub-aknoun-edu" alt="ayoub-aknoun-edu" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayoub-aknoun-edu&theme=tokyonight" alt="ayoub-aknoun-edu" /></a>
 </p>
 
 ## 🔝 Top Contributed Repo
