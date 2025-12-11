@@ -33,10 +33,6 @@ AI & Full-stack engineer with a Master’s in **Artificial Intelligence & Data A
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ayoub-aknoun-edu&layout=compact&langs_count=8&theme=tokyonight" />
 </p>
   
-## 🏆 GitHub Trophies
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayoub-aknoun-edu&theme=tokyonight" alt="ayoub-aknoun-edu" /></a>
-</p>
 
 ## 🔝 Top Contributed Repo
 <p align="center">
